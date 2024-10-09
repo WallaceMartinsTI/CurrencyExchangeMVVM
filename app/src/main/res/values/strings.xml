@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Currency Exchange MVVM</string>
+
+    <!-- CURRENCY CODE -->
+    <string name="AED_CURRENCY_CODE">AED</string>
+    <string name="ARS_CURRENCY_CODE">ARS</string>
+    <string name="AUD_CURRENCY_CODE">AUD</string>
+    <string name="BRL_CURRENCY_CODE">BRL</string>
+    <string name="CAD_CURRENCY_CODE">CAD</string>
+    <string name="CNY_CURRENCY_CODE">CNY</string>
+    <string name="EGP_CURRENCY_CODE">EGP</string>
+    <string name="GBP_CURRENCY_CODE">GBP</string>
+    <string name="JPY_CURRENCY_CODE">JPY</string>
+    <string name="NZD_CURRENCY_CODE">NZD</string>
+    <string name="THB_CURRENCY_CODE">THB</string>
+    <string name="UAH_CURRENCY_CODE">UAH</string>
+    <string name="USD_CURRENCY_CODE">USD</string>
+    <string name="YER_CURRENCY_CODE">YER</string>
+
+    <!-- CURRENCY NAME -->
+    <string name="AED_CURRENCY_NAME">UAE Dirham</string>
+    <string name="ARS_CURRENCY_NAME">Argentine Peso</string>
+    <string name="AUD_CURRENCY_NAME">Australian Dollar</string>
+    <string name="BRL_CURRENCY_NAME">Brazilian Real</string>
+    <string name="CAD_CURRENCY_NAME">Canadian Dollar</string>
+    <string name="CNY_CURRENCY_NAME">Chinese Renminbi</string>
+    <string name="EGP_CURRENCY_NAME">Egyptian Pound</string>
+    <string name="GBP_CURRENCY_NAME">Pound Sterling</string>
+    <string name="JPY_CURRENCY_NAME">Japanese Yen</string>
+    <string name="NZD_CURRENCY_NAME">New Zealand Dollar</string>
+    <string name="THB_CURRENCY_NAME">Thai Baht</string>
+    <string name="UAH_CURRENCY_NAME">Ukrainian Hryvnia</string>
+    <string name="USD_CURRENCY_NAME">United States Dollar</string>
+    <string name="YER_CURRENCY_NAME">Yemeni Rial</string>
+
+    <!-- CURRENCY COUNTRY -->
+    <string name="AED_CURRENCY_COUNTRY">United Arab Emirates</string>
+    <string name="ARS_CURRENCY_COUNTRY">Argentina</string>
+    <string name="AUD_CURRENCY_COUNTRY">Australia</string>
+    <string name="BRL_CURRENCY_COUNTRY">Brazil</string>
+    <string name="CAD_CURRENCY_COUNTRY">Canada</string>
+    <string name="CNY_CURRENCY_COUNTRY">China</string>
+    <string name="EGP_CURRENCY_COUNTRY">Egypt</string>
+    <string name="GBP_CURRENCY_COUNTRY">United Kingdom</string>
+    <string name="JPY_CURRENCY_COUNTRY">Japan</string>
+    <string name="NZD_CURRENCY_COUNTRY">New Zealand</string>
+    <string name="THB_CURRENCY_COUNTRY">Thailand</string>
+    <string name="UAH_CURRENCY_COUNTRY">Ukraine</string>
+    <string name="USD_CURRENCY_COUNTRY">United States</string>
+    <string name="YER_CURRENCY_COUNTRY">Yemen</string>
+
+    <!-- CURRENCY SPINNER -->
+    <string-array name="currencies_array">
+        <item>Select a currency</item>
+        <item>AED - United Arab Emirates</item>
+        <item>ARS - Argentina</item>
+        <item>AUD - Australia</item>
+        <item>BRL - Brazil</item>
+        <item>CAD - Canada</item>
+        <item>CNY - China</item>
+        <item>EGP - Egypt</item>
+        <item>GBP - United Kingdom</item>
+        <item>JPY - Japan</item>
+        <item>NZD - New Zealand</item>
+        <item>THB - Thailand</item>
+        <item>UAH - Ukraine</item>
+        <item>USD - United Stated</item>
+        <item>YER - Yemen</item>
+    </string-array>
+</resources>
